@@ -23,10 +23,10 @@ answer: touch
 answer: 2.15.0
 
 # 8 - Why would you run the command 'git status'?
-answer: to see if your work has been updated
+answer: to see the state of your current work!
 
 # 9 - What does the command 'git add .' do?
-answer: the command 'git add .' adds new or changed files in your directory 
+answer: the command git add . tells git that you want to change/stage file updates.
 
 # 10 - What is the command to push your committed changes to your repo on GitHub?
-answer: git push
+answer: git push -u origin master 
